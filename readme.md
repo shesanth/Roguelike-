@@ -1,4 +1,5 @@
-Use arrow keys to move around, alt+enter to go full screen, and esc to exit.
+Use arrow keys to move around and attack.
 
-Right now there's nothing but a player character and an empty map. More to
-come soon.
+Press ALT+ENTER to go full screen and ESC to exit.
+
+Right now the game is fully playable with monsters, players, items, and several procedurally generated levels.
