@@ -13,3 +13,6 @@ Use arrow keys to move around and attack.
 "<" goes down stairs to the next level if you are standing over them (also represented by "<").
 
 Right now the game is fully playable with monsters, players, items, and several procedurally generated levels.
+
+
+Play by running roguelike.exe in the dist folder.
